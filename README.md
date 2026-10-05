@@ -21,21 +21,7 @@ My journey into technology has fueled a strong passion for cybersecurity, inspir
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
 ### SIEM
 <div>
@@ -45,21 +31,28 @@ My journey into technology has fueled a strong passion for cybersecurity, inspir
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISO%2FIEC%2027001%3A2022%20ISMS%20Foundation%20%282026%29-005A9C?&style=for-the-badge&logo=iso&logoColor=white" />
+<img src="https://img.shields.io/badge/-Aviatrix%20Certified%20Cloud%20Engineer%20%28ACE%29-00AEEF?&style=for-the-badge&logo=cloudflare&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cybersecurity%20%26%20Ethical%20Hacking%20%282026%29-111827?&style=for-the-badge&logo=kalilinux&logoColor=white" />
 </div>
 
-## Projects
+### 🔐 Cybersecurity Project
 	SOC Lab
 Designed and deployed a Wazuh SIEM lab for alert monitoring, log analysis and incident response.
 
+[📄 View Project Documentation](https://docs.google.com/document/d/1Hf7cf0AP-NesBFI4jzF2rm7zwv3Lf7z296P1mFbF7g8/edit?tab=t.0)
+
 	Apache Tomcat Assessment
 Conducted vulnerability assessments on multiple Windows hosts, identifying 24 vulnerabilities, including 5 Critical and 8 High-risk findings, and provided remediation recommendations.
+🔗 [View Project Documentation](https://docs.google.com/document/d/19dfknb0Ttxa7TDiAQlTWtTuOj0XVySpa636WBNqQqdQ/edit?tab=t.0#heading=h.8j83p86r35jf)
 
-	Network Traffic Analysis
-Analyzed over 500 network packets using Wireshark to identify suspicious communication and unauthorized activity
+Bright Academy (Dojo) Penetration Testing Lab Report {Brightmind}
+[📄 View Full Project Report](https://docs.google.com/document/d/1REVjtEBhZj3DltnC5-NREopq9CRg5JsVjVGMyCyKKWI/edit?tab=t.0#heading=h.4oe1gbmw08gx)
+
+Medvile_Detailed_Phishing_Incident_Report
+[📄 View Full Project Report](https://docs.google.com/document/d/1X5tEaFE8hkNXwkIvc03QZjs5rVsW47uC/edit)
+
+Network Vulnerability Assessment and Security Analysis (Nessus - Met4)
+
