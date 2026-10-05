@@ -34,7 +34,7 @@ My journey into technology has fueled a strong passion for cybersecurity, inspir
 
 <div>
 <img src="https://img.shields.io/badge/-ISO%2FIEC%2027001%3A2022%20ISMS%20Foundation%20%282026%29-005A9C?&style=for-the-badge&logo=iso&logoColor=white" />
-<img src="https://img.shields.io/badge/-Aviatrix%20Certified%20Cloud%20Engineer%20%28ACE%29-00AEEF?&style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/-Aviatrix%20Certified%20Cloud%20Engineer%20%28ACE%29-00AEEF?&style=for-the-badge&logo=cloudflare&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-Cybersecurity%20%26%20Ethical%20Hacking%20%282026%29-111827?&style=for-the-badge&logo=kalilinux&logoColor=white" />
 </div>
 
@@ -54,5 +54,6 @@ Bright Academy (Dojo) Penetration Testing Lab Report {Brightmind}
 Medvile_Detailed_Phishing_Incident_Report
 [📄 View Full Project Report](https://docs.google.com/document/d/1X5tEaFE8hkNXwkIvc03QZjs5rVsW47uC/edit)
 
-Network Vulnerability Assessment and Security Analysis (Nessus - Met4)
+Privilege Escalation Vulnerability Discovery and Remediation {god-Hand}
+[📄 View Full Project Report](https://docs.google.com/document/d/19QLPEQwyFGv21SG3fE3E2h0Eg0Pxpcj04gkkqMBla_g/edit?tab=t.0#heading=h.mqkh53vpr8ot)
 
